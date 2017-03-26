@@ -14,5 +14,4 @@ info
 </br>
 list_backdoor
 </br>
-help(command)
-# More updates is coming
+help(command) <h1>#More updates is coming</h1>
